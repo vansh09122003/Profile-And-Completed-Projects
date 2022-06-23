@@ -1,7 +1,8 @@
 - Hi, I’m Vansh Tanwani
 - I’m interested in Android,IOS,.net,Unity and Web Development Projects
-- I’m always ready to learning up and mastering mu skills
+- I’m always ready to learning up and mastering my skills
 - List of projects completed are arranged below.
 - Unity :- Tetris, Tic Tac Toe
-- Working on More Projects
 - Web Development :- Some basic Web Pages with HTML CSS and JS
+- Python :- Some Board Games and a Cafe Management System
+- Working on More Projects
